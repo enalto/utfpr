@@ -5,7 +5,6 @@ public class Identifier {
 	public Identifier() {
 	}
 
-	
 	public Identifier(String s) {
 		setIdentifier(s);
 	}

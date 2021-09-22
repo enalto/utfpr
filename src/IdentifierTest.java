@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
 
 class IdentifierTest {
 
-	
 	private Identifier identifier;
 
 	@BeforeEach
