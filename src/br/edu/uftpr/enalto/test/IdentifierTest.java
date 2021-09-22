@@ -17,7 +17,6 @@ import br.edu.uftpr.enalto.identifier.Identifier;
 class IdentifierTest {
 
 	private Identifier identifier;
-	private Identifier Identifier1;
 
 	@BeforeEach
 	public void setup() {

@@ -7,7 +7,6 @@ import br.edu.uftpr.enalto.exception.IdentifierSoPodeConterLetrasENumerosExcepti
 
 public class Identifier {
 	private String s;
-	private String s1;
 	private String pattern = "[a-zA-Z0-9]+";
 
 	public Identifier() {
